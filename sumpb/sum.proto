@@ -1,0 +1,4 @@
+syntax = "proto3";
+
+package sum;
+option go_package="./sumpb";
